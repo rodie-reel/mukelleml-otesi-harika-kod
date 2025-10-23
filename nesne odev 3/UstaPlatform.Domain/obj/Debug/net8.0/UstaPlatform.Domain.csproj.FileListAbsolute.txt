@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\UstaPlatform.Domain\bin\Debug\net8.0\UstaPlatform.Domain.exe
+C:\Users\ACER\source\repos\UstaPlatform.Domain\bin\Debug\net8.0\UstaPlatform.Domain.deps.json
+C:\Users\ACER\source\repos\UstaPlatform.Domain\bin\Debug\net8.0\UstaPlatform.Domain.runtimeconfig.json
+C:\Users\ACER\source\repos\UstaPlatform.Domain\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\ACER\source\repos\UstaPlatform.Domain\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\ACER\source\repos\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.AssemblyInfo.cs
+C:\Users\ACER\source\repos\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\ACER\source\repos\UstaPlatform.Domain\obj\Debug\net8.0\refint\UstaPlatform.Domain.dll
+C:\Users\ACER\source\repos\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\ACER\source\repos\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.genruntimeconfig.cache
+C:\Users\ACER\source\repos\UstaPlatform.Domain\obj\Debug\net8.0\ref\UstaPlatform.Domain.dll
